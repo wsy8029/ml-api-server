@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T03:09:45.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="8z0Oxf0KWBlzBwSrNb3R" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T01:34:12.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OMIfdY9PfrA5v1-2eMCj" version="13.5.9" type="github">
   <diagram id="E_F-tPH3IItKNFfu0kRh" name="Page-1">
     <mxGraphModel dx="1426" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lq5B79I5vJtuvYxeWe1i-1" value="Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-1" value="Feature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-4" value="Jupyter Notebook" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-5" value="Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-6" value="Rest API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-7" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-8" value="Input: data, Parameter&lt;br&gt;Output: Model, Immediate Inference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-9" value="Tensorflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lq5B79I5vJtuvYxeWe1i-10" value="PyTorch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
